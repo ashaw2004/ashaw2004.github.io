@@ -1,2 +1,2 @@
-# ashaw2004.github.io
-Engineering Portfolio 
+theme: jekyll-theme-minimal
+title: Aidan Shaw Engineering Portfolio 
