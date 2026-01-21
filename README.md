@@ -1,2 +1,2 @@
-theme: jekyll-theme-minimal
-title: Aidan Shaw Engineering Portfolio 
+# Aidan Shaw Engineering Portfolio 
+University of Guelph 
