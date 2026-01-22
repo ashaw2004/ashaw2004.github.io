@@ -13,18 +13,7 @@ Welcome to my engineering Portfolio. This site highlights projects demonstrating
 </p> 
 
 ### Wave motion generation through slider-crank mechanism
-### Mechanism Motion Preview
-<p align="center">
-  <p align="center">
-  <iframe
-    width="550"
-    height="300"
-    src="https://www.youtube.com/embed/QSuIVthBzTE?autoplay=1&mute=1&loop=1&playlist=QSuIVthBzTE"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen>
-  </iframe>
-</p>
+
 
 
 
