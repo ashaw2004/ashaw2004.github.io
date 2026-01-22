@@ -1,5 +1,5 @@
 # Aidan Antonio Shaw 
-### Mechanical Engineering Portflio 
+## Mechanical Engineering Portflio 
 
 Welcome to my engineering Portfolio. This site highlights projects demonstrating mechanical systems analysis, modeling, and physical models. 
 ---
