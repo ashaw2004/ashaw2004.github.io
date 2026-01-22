@@ -12,4 +12,17 @@ Welcome to my engineering Portfolio. This site highlights projects demonstrating
 <em> Pulley gearbox assembly used to reduce 4600rpm to desired output of 25rpm </em>
 </p> 
 
+### Wave motion generation through slider-crank mechanism
+<p align="center">
+<iframe
+    width="700"
+    height="394"
+    src="https://youtube.com/shorts/QSuIVthBzTE?si=kkfz-3SBc2MXexvD"
+    title="Special Effects Project Loop"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen>
+  </iframe>
+</p>
+
 
